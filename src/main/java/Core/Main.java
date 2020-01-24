@@ -40,10 +40,9 @@ public class Main extends PluginBase implements Listener {
   /**
   
   /**
-  test
+  *
+  * This method will register all events
   */
-   * This method will register all events
-   */
   public void regEvents() {
     EventsManager.registerAllEvents(this);
     this.getServer().getPluginManager().registerEvents(this, this);
