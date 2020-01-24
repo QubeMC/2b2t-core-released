@@ -1,0 +1,16 @@
+# This is the default configuration of 2b2tpeCore
+
+# This list of command will be restricted to be run anywhere
+# Do not include the "/" in the command
+
+# This is the list of command to be removed
+CommandsToRestrict:
+- stop
+- ban-ip
+- ban
+- kill
+- op
+- deop
+- whitelist
+
+

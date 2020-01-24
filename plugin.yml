@@ -1,0 +1,15 @@
+#this plugin is made by maxxie114
+
+name: 2b2tpeCore
+main: Core.Main
+
+version: "3.0.0"
+api: ["1.0.7"]
+author: maxxie114
+
+permission:
+  core.gmsp:
+    default: op
+  core.super:
+    default: op
+    
