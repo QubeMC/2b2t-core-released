@@ -1,5 +1,5 @@
 # 2b2tpe
-This is a portion of the Core plugin for 2b2tmcpe, it is used to implements all bug fixes, and new features in one plugin. This way there won't be too much concurrent task that mess up all the plugin functions.
+This is a portion of the Core plugin for 2b2tmcpe, it is used to implements all bug fixes, and new features in one plugin. This way there won't be too much concurrent task that mess up all the plugin functions, this project is only half open source.
 
 Any empty directories means that the code is either un-released or the directory is empty by default
 # Build Status
